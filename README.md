@@ -6,5 +6,3 @@ A travel page website
 ![Screenshot (48)](https://github.com/anushka8993/Travel-page/assets/96035858/37f702a6-28be-4426-92a5-8afef20b5eaa)
 ![Screenshot (49)](https://github.com/anushka8993/Travel-page/assets/96035858/5503e9ac-56d4-4943-9044-791092bdc815)
 ![Screenshot (50)](https://github.com/anushka8993/Travel-page/assets/96035858/00ab5a58-f729-426e-b71b-18a7712a49a7)
-![Uploading Screenshot (51).png…]()
-![Uploading Screenshot (51).png…]()
